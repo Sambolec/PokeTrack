@@ -1,0 +1,303 @@
+Name,Type,Attack,Damage,Effect
+Bulbasaur,Grass,Vine Whip,20,No additional effect.
+Bulbasaur,Grass,Leech Seed,10,Heal 10 damage from Bulbasaur.
+Ivysaur,Grass,Razor Leaf,30,No additional effect.
+Ivysaur,Grass,Poison Powder,20,The Defending Pokémon is now Poisoned.
+Venusaur,Grass,Solar Beam,60,No additional effect.
+Venusaur,Grass,Energy Trans,0,Move a Grass Energy card from one of your Pokémon to another.
+Charmander,Fire,Scratch,10,No additional effect.
+Charmander,Fire,Ember,30,Discard 1 Fire Energy from Charmander.
+Charmeleon,Fire,Flamethrower,50,Discard 1 Fire Energy from Charmeleon.
+Charmeleon,Fire,Slash,30,No additional effect.
+Charizard,Fire,Fire Spin,100,Discard 2 Fire Energy from Charizard.
+Charizard,Fire,Flamethrower,50,Discard 1 Fire Energy from Charizard.
+Squirtle,Water,Bubble,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Squirtle,Water,Water Gun,20,No additional effect.
+Wartortle,Water,Bite,40,No additional effect.
+Wartortle,Water,Withdraw,0,Flip a coin. If heads, prevent all damage done to Wartortle during your opponent's next turn.
+Blastoise,Water,Hydro Pump,40,Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost.
+Blastoise,Water,Skull Bash,30,No additional effect.
+Caterpie,Bug,Tackle,10,No additional effect.
+Caterpie,Bug,String Shot,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Metapod,Bug,Harden,0,During your opponent's next turn, prevent up to 40 damage done to Metapod.
+Metapod,Bug,Tackle,20,No additional effect.
+Butterfree,Bug,Whirlwind,20,Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.
+Butterfree,Bug,Stun Spore,20,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Weedle,Bug,Poison Sting,10,Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+Weedle,Bug,Sting,10,No additional effect.
+Kakuna,Bug,Harden,0,During your opponent's next turn, prevent up to 30 damage done to Kakuna.
+Kakuna,Bug,Poison Powder,20,The Defending Pokémon is now Poisoned.
+Beedrill,Bug,Twineedle,30,Flip 2 coins. This attack does 30 damage times the number of heads.
+Beedrill,Bug,Poison Sting,40,The Defending Pokémon is now Poisoned.
+Pidgey,Flying,Gust,10,No additional effect.
+Pidgey,Flying,Quick Attack,10,Flip a coin. If heads, this attack does 10 more damage.
+Pidgeotto,Flying,Whirlwind,20,Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.
+Pidgeotto,Flying,Mirror Move,0,If Pidgeotto was attacked last turn, do the same amount of damage to the opponent.
+Pidgeot,Flying,Hurricane,30,If the Defending Pokémon has any damage counters on it, shuffle it and all cards attached to it into your opponent's deck.
+Pidgeot,Flying,Whirlwind,20,Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.
+Rattata,Normal,Bite,20,No additional effect.
+Rattata,Normal,Quick Attack,10,Flip a coin. If heads, this attack does 10 more damage.
+Raticate,Normal,Super Fang,0,Does damage to the Defending Pokémon equal to half its remaining HP (rounded up).
+Raticate,Normal,Bite,20,No additional effect.
+Spearow,Flying,Peck,10,No additional effect.
+Spearow,Flying,Mirror Move,0,If Spearow was attacked last turn, do the same amount of damage to the opponent.
+Fearow,Flying,Drill Peck,40,No additional effect.
+Fearow,Flying,Peck,20,No additional effect.
+Ekans,Poison,Poison Sting,10,Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+Ekans,Poison,Wrap,20,Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+Arbok,Poison,Poison Fang,30,The Defending Pokémon is now Poisoned.
+Arbok,Poison,Wrap,15,Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+Pikachu,Electric,Thunder Shock,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Pikachu,Electric,Thunder Jolt,30,Flip a coin. If tails, Pikachu does 10 damage to itself.
+Raichu,Electric,Thunder,60,Flip a coin. If tails, Raichu does 30 damage to itself.
+Raichu,Electric,Agility,20,Flip a coin. If heads, prevent all effects of attacks, including damage, done to Raichu during your opponent's next turn.
+Sandshrew,Ground,Sand Attack,10,If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+Sandshrew,Ground,Scratch,20,No additional effect.
+Sandslash,Ground,Slash,30,No additional effect.
+Sandslash,Ground,Swift,20,This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon.
+Nidoran♀,Poison,Scratch,10,No additional effect.
+Nidoran♀,Poison,Poison Sting,20,Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+Nidorina,Poison,Bite,30,No additional effect.
+Nidorina,Poison,Poison Sting,20,Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+Nidoqueen,Poison,Body Slam,40,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Nidoqueen,Poison,Tail Whip,30,No additional effect.
+Nidoran♂,Poison,Horn Attack,10,No additional effect.
+Nidoran♂,Poison,Double Kick,30,Flip 2 coins. This attack does 30 damage times the number of heads.
+Nidorino,Poison,Horn Drill,50,No additional effect.
+Nidorino,Poison,Fury Attack,30,Flip 3 coins. This attack does 30 damage times the number of heads.
+Nidoking,Poison,Thrash,30,Flip a coin. If heads, this attack does 10 more damage; if tails, Nidoking does 10 damage to itself.
+Nidoking,Poison,Horn Drill,50,No additional effect.
+Clefairy,Fairy,Sing,0,The Defending Pokémon is now Asleep.
+Clefairy,Fairy,Metronome,0,Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack.
+Clefable,Fairy,Metronome,0,Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack.
+Clefable,Fairy,Minimize,0,During your opponent's next turn, any damage done to Clefable is reduced by 20.
+Vulpix,Fire,Ember,30,Discard 1 Fire Energy from Vulpix.
+Vulpix,Fire,Quick Attack,10,Flip a coin. If heads, this attack does 10 more damage.
+Ninetales,Fire,Fire Blast,80,Discard 1 Fire Energy from Ninetales.
+Ninetales,Fire,Confuse Ray,10,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Jigglypuff,Normal,Pound,20,No additional effect.
+Jigglypuff,Normal,Lullaby,0,The Defending Pokémon is now Asleep.
+Wigglytuff,Normal,Do the Wave,10,Does 10 damage plus 10 more damage for each of your Benched Pokémon.
+Wigglytuff,Normal,Double-Edge,50,Wigglytuff does 10 damage to itself.
+Zubat,Poison,Bite,10,No additional effect.
+Zubat,Poison,Leech Life,10,Remove a number of damage counters from Zubat equal to the damage done to the Defending Pokémon.
+Golbat,Poison,Wing Attack,30,No additional effect.
+Golbat,Poison,Leech Life,20,Remove a number of damage counters from Golbat equal to the damage done to the Defending Pokémon.
+Oddish,Grass,Absorb,10,Remove a number of damage counters from Oddish equal to the damage done to the Defending Pokémon.
+Oddish,Grass,Stun Spore,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Gloom,Grass,Foul Odor,10,Both Active Pokémon are now Confused.
+Gloom,Grass,Poison Powder,20,The Defending Pokémon is now Poisoned.
+Vileplume,Grass,Petal Dance,40,Flip 3 coins. This attack does 40 damage times the number of heads.
+Vileplume,Grass,Hyper Beam,20,If the Defending Pokémon has any Energy cards attached to it, choose 1 and discard it.
+Paras,Bug,Scratch,20,No additional effect.
+Paras,Bug,Spore,0,The Defending Pokémon is now Asleep.
+Parasect,Bug,Slash,30,No additional effect.
+Parasect,Bug,Spore,0,The Defending Pokémon is now Asleep.
+Venonat,Bug,Tackle,10,No additional effect.
+Venonat,Bug,Leech Life,10,Remove a number of damage counters from Venonat equal to the damage done to the Defending Pokémon.
+Venomoth,Bug,Stun Spore,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Venomoth,Bug,Venom Powder,10,Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned.
+Diglett,Ground,Scratch,10,No additional effect.
+Diglett,Ground,Dig,30,No additional effect.
+Dugtrio,Ground,Slash,40,No additional effect.
+Dugtrio,Ground,Earthquake,70,Does 10 damage to each of your own Benched Pokémon.
+Meowth,Normal,Pay Day,10,Draw a card.
+Meowth,Normal,Bite,20,No additional effect.
+Persian,Normal,Scratch,20,No additional effect.
+Persian,Normal,Slash,30,No additional effect.
+Psyduck,Water,Headache,0,Your opponent can't play Trainer cards during his or her next turn.
+Psyduck,Water,Fury Swipes,10,Flip 3 coins. This attack does 10 damage times the number of heads.
+Golduck,Water,Psychic,10,Does 10 damage plus 10 more damage for each Energy attached to the Defending Pokémon.
+Golduck,Water,Hyper Beam,20,If the Defending Pokémon has any Energy cards attached to it, choose 1 and discard it.
+Mankey,Fighting,Anger,20,Flip a coin. If heads, this attack does 20 more damage.
+Mankey,Fighting,Scratch,10,No additional effect.
+Primeape,Fighting,Fury Swipes,20,Flip 3 coins. This attack does 20 damage times the number of heads.
+Primeape,Fighting,Tantrum,50,Flip a coin. If tails, Primeape is now Confused.
+Growlithe,Fire,Flare,20,No additional effect.
+Growlithe,Fire,Tackle,10,No additional effect.
+Arcanine,Fire,Flamethrower,50,Discard 1 Fire Energy from Arcanine.
+Arcanine,Fire,Takedown,80,Arcanine does 30 damage to itself.
+Poliwag,Water,Bubble,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Poliwag,Water,Water Gun,20,No additional effect.
+Poliwhirl,Water,Amnesia,20,Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.
+Poliwhirl,Water,Double Slap,30,Flip 2 coins. This attack does 30 damage times the number of heads.
+Poliwrath,Water,Water Gun,30,No additional effect.
+Poliwrath,Water,Whirlpool,30,If the Defending Pokémon has any Energy cards attached to it, choose 1 and discard it.
+Abra,Psychic,Psyshock,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Abra,Psychic,Teleport,0,Switch Abra with 1 of your Benched Pokémon.
+Kadabra,Psychic,Recover,0,Discard 1 Psychic Energy card attached to Kadabra in order to use this attack. Remove all damage counters from Kadabra.
+Kadabra,Psychic,Super Psy,50,No additional effect.
+Alakazam,Psychic,Confuse Ray,30,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Alakazam,Psychic,Psychic,30,Does 30 damage plus 10 more damage for each Energy attached to the Defending Pokémon.
+Machop,Fighting,Low Kick,20,No additional effect.
+Machop,Fighting,Karate Chop,50,Does 50 damage minus 10 damage for each damage counter on Machop.
+Machoke,Fighting,Submission,60,Machoke does 20 damage to itself.
+Machoke,Fighting,Karate Chop,50,Does 50 damage minus 10 damage for each damage counter on Machoke.
+Machamp,Fighting,Seismic Toss,60,No additional effect.
+Machamp,Fighting,Submission,60,Machamp does 20 damage to itself.
+Bellsprout,Grass,Vine Whip,10,No additional effect.
+Bellsprout,Grass,Poison Powder,10,The Defending Pokémon is now Poisoned.
+Weepinbell,Grass,Razor Leaf,30,No additional effect.
+Weepinbell,Grass,Poison Powder,20,The Defending Pokémon is now Poisoned.
+Victreebel,Grass,Lure,0,Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon.
+Victreebel,Grass,Acid,20,Flip a coin. If heads, the Defending Pokémon can't retreat during your opponent's next turn.
+Tentacool,Water,Supersonic,0,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Tentacool,Water,Poison Sting,10,Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+Tentacruel,Water,Poison Sting,20,Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+Tentacruel,Water,Wrap,30,Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+Geodude,Rock,Tackle,10,No additional effect.
+Geodude,Rock,Selfdestruct,40,Geodude does 40 damage to itself.
+Graveler,Rock,Harden,0,During your opponent's next turn, prevent up to 30 damage done to Graveler.
+Graveler,Rock,Rock Throw,40,No additional effect.
+Golem,Rock,Selfdestruct,100,Golem does 100 damage to itself.
+Golem,Rock,Rock Throw,60,No additional effect.
+Ponyta,Fire,Smash Kick,20,No additional effect.
+Ponyta,Fire,Flame Tail,30,No additional effect.
+Rapidash,Fire,Stomp,20,Flip a coin. If heads, this attack does 20 more damage.
+Rapidash,Fire,Agility,20,Flip a coin. If heads, prevent all effects of attacks, including damage, done to Rapidash during your opponent's next turn.
+Slowpoke,Water,Headbutt,10,No additional effect.
+Slowpoke,Water,Confusion,10,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Slowbro,Water,Water Gun,20,No additional effect.
+Slowbro,Water,Confusion,20,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Magnemite,Electric,Thunder Wave,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Magnemite,Electric,Tackle,20,No additional effect.
+Magneton,Electric,Sonicboom,20,Don't apply Weakness and Resistance for this attack.
+Magneton,Electric,Selfdestruct,80,Magneton does 80 damage to itself.
+Farfetch'd,Normal,Leek Slap,30,Flip a coin. If tails, this attack does nothing.
+Farfetch'd,Normal,Pot Smash,30,No additional effect.
+Doduo,Normal,Fury Attack,10,Flip 2 coins. This attack does 10 damage times the number of heads.
+Doduo,Normal,Peck,10,No additional effect.
+Dodrio,Normal,Retreat Aid,0,As long as Dodrio is on your Bench, pay 1 less to retreat your Active Pokémon.
+Dodrio,Normal,Rage,10,Does 10 damage plus 10 more damage for each damage counter on Dodrio.
+Seel,Water,Headbutt,10,No additional effect.
+Seel,Water,Ice Beam,20,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Dewgong,Water,Aurora Beam,50,No additional effect.
+Dewgong,Water,Ice Beam,30,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Grimer,Poison,Nasty Goo,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Grimer,Poison,Minimize,0,During your opponent's next turn, any damage done to Grimer is reduced by 20.
+Muk,Poison,Sludge,30,Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+Muk,Poison,Toxic Gas,0,Ignore all Poké-Powers other than Toxic Gas.
+Shellder,Water,Tackle,10,No additional effect.
+Shellder,Water,Supersonic,0,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Cloyster,Water,Clamp,30,Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+Cloyster,Water,Spike Cannon,30,Flip 2 coins. This attack does 30 damage times the number of heads.
+Gastly,Ghost,Lick,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Gastly,Ghost,Energy Conversion,0,Put up to 2 Energy cards from your discard pile into your hand.
+Haunter,Ghost,Nightmare,10,The Defending Pokémon is now Asleep.
+Haunter,Ghost,Dream Eater,50,If the Defending Pokémon is not Asleep, this attack does nothing.
+Gengar,Ghost,Dark Mind,30,If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it.
+Gengar,Ghost,Hypnosis,0,The Defending Pokémon is now Asleep.
+Onix,Rock,Rock Throw,10,No additional effect.
+Onix,Rock,Harden,0,During your opponent's next turn, prevent up to 40 damage done to Onix.
+Drowzee,Psychic,Pound,10,No additional effect.
+Drowzee,Psychic,Confuse Ray,10,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Hypno,Psychic,Prophecy,0,Look at up to 3 cards from the top of either player's deck and rearrange them as you like.
+Hypno,Psychic,Dark Mind,30,If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it.
+Krabby,Water,Call for Family,0,Search your deck for Krabby and put it onto your Bench.
+Krabby,Water,Irongrip,20,No additional effect.
+Kingler,Water,Crabhammer,40,No additional effect.
+Kingler,Water,Flail,10,Does 10 damage times the number of damage counters on Kingler.
+Voltorb,Electric,Tackle,10,No additional effect.
+Voltorb,Electric,Sonicboom,20,Don't apply Weakness and Resistance for this attack.
+Electrode,Electric,Tackle,20,No additional effect.
+Electrode,Electric,Selfdestruct,100,Electrode does 100 damage to itself.
+Exeggcute,Grass,Hypnosis,0,The Defending Pokémon is now Asleep.
+Exeggcute,Grass,Leech Seed,20,Heal 10 damage from Exeggcute.
+Exeggutor,Grass,Stomp,20,Flip a coin. If heads, this attack does 20 more damage.
+Exeggutor,Grass,Barrage,20,Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads.
+Cubone,Ground,Bone Attack,20,No additional effect.
+Cubone,Ground,Snivel,0,If Cubone is attacked during your opponent's next turn, any damage done to Cubone is reduced by 20.
+Marowak,Ground,Bone Club,30,No additional effect.
+Marowak,Ground,Bonemerang,50,Flip 2 coins. This attack does 50 damage times the number of heads.
+Hitmonlee,Fighting,Stretch Kick,20,Does 20 damage to 1 of your opponent's Benched Pokémon.
+Hitmonlee,Fighting,High Jump Kick,50,No additional effect.
+Hitmonchan,Fighting,Jab,20,No additional effect.
+Hitmonchan,Fighting,Special Punch,40,No additional effect.
+Lickitung,Normal,Lick,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Lickitung,Normal,Supersonic,0,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Koffing,Poison,Foul Gas,10,Flip a coin. If heads, the Defending Pokémon is now Confused; if tails, the Defending Pokémon is now Poisoned.
+Koffing,Poison,Tackle,20,No additional effect.
+Weezing,Poison,Smog,20,Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+Weezing,Poison,Selfdestruct,60,Weezing does 60 damage to itself.
+Rhyhorn,Rock,Leer,0,Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+Rhyhorn,Rock,Horn Attack,30,No additional effect.
+Rhydon,Rock,Ram,30,No additional effect.
+Rhydon,Rock,Horn Attack,50,No additional effect.
+Chansey,Normal,Scrunch,0,Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn.
+Chansey,Normal,Double-Edge,80,Chansey does 80 damage to itself.
+Tangela,Grass,Bind,20,Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+Tangela,Grass,Poisonpowder,20,The Defending Pokémon is now Poisoned.
+Kangaskhan,Normal,Fetch,0,Draw a card.
+Kangaskhan,Normal,Comet Punch,20,Flip 4 coins. This attack does 20 damage times the number of heads.
+Horsea,Water,Smokescreen,10,If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.
+Horsea,Water,Water Gun,20,No additional effect.
+Seadra,Water,Water Gun,20,No additional effect.
+Seadra,Water,Agility,20,Flip a coin. If heads, prevent all effects of attacks, including damage, done to Seadra during your opponent's next turn.
+Goldeen,Water,Horn Attack,10,No additional effect.
+Goldeen,Water,Flail,10,Does 10 damage times the number of damage counters on Goldeen.
+Seaking,Water,Waterfall,30,No additional effect.
+Seaking,Water,Horn Attack,10,No additional effect.
+Staryu,Water,Slap,20,No additional effect.
+Staryu,Water,Recover,0,Discard 1 Water Energy attached to Staryu in order to use this attack. Remove all damage counters from Staryu.
+Starmie,Water,Recover,0,Discard 1 Water Energy attached to Starmie in order to use this attack. Remove all damage counters from Starmie.
+Starmie,Water,Star Freeze,20,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Mr. Mime,Psychic,Barrier,0,Discard 1 Psychic Energy attached to Mr. Mime in order to use this attack. During your opponent's next turn, prevent all damage done to Mr. Mime.
+Mr. Mime,Psychic,Confuse Ray,10,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Scyther,Bug,Swords Dance,0,During your next turn, Scyther's Slash attack's base damage is 60 instead of 30.
+Scyther,Bug,Slash,30,No additional effect.
+Jynx,Ice,Doubleslap,10,Flip 2 coins. This attack does 10 damage times the number of heads.
+Jynx,Ice,Meditate,20,Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon.
+Electabuzz,Electric,Thundershock,10,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Electabuzz,Electric,Thunderpunch,30,Flip a coin. If heads, this attack does 10 more damage; if tails, Electabuzz does 10 damage to itself.
+Magmar,Fire,Fire Punch,30,No additional effect.
+Magmar,Fire,Smog,20,Flip a coin. If heads, the Defending Pokémon is now Poisoned.
+Pinsir,Bug,Irongrip,20,No additional effect.
+Pinsir,Bug,Guillotine,50,No additional effect.
+Tauros,Normal,Stomp,20,Flip a coin. If heads, this attack does 20 more damage.
+Tauros,Normal,Rampage,20,Does 20 damage plus 10 more damage for each damage counter on Tauros.
+Magikarp,Water,Flail,10,Does 10 damage times the number of damage counters on Magikarp.
+Magikarp,Water,Splash,0,No additional effect.
+Gyarados,Water,Dragon Rage,50,No additional effect.
+Gyarados,Water,Bubblebeam,40,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Lapras,Water,Water Gun,10,No additional effect.
+Lapras,Water,Confuse Ray,10,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Ditto,Normal,Transform,0,Ditto copies the Defending Pokémon's attacks, types, and weaknesses.
+Ditto,Normal,Struggle,20,Ditto does 10 damage to itself.
+Eevee,Normal,Quick Attack,10,Flip a coin. If heads, this attack does 10 more damage.
+Eevee,Normal,Tackle,10,No additional effect.
+Vaporeon,Water,Water Gun,30,No additional effect.
+Vaporeon,Water,Quick Attack,10,Flip a coin. If heads, this attack does 20 more damage.
+Jolteon,Electric,Pin Missile,20,Flip 4 coins. This attack does 20 damage times the number of heads.
+Jolteon,Electric,Quick Attack,10,Flip a coin. If heads, this attack does 20 more damage.
+Flareon,Fire,Flamethrower,60,Discard 1 Fire Energy from Flareon.
+Flareon,Fire,Quick Attack,10,Flip a coin. If heads, this attack does 20 more damage.
+Porygon,Normal,Conversion 1,0,Change the Defending Pokémon's Weakness to a type of your choice other than Colorless.
+Porygon,Normal,Psybeam,20,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Omanyte,Rock,Water Gun,10,No additional effect.
+Omanyte,Rock,Horn Attack,10,No additional effect.
+Omastar,Rock,Spike Cannon,30,Flip 2 coins. This attack does 30 damage times the number of heads.
+Omastar,Rock,Water Gun,30,No additional effect.
+Kabuto,Rock,Scratch,10,No additional effect.
+Kabuto,Rock,Absorb,10,Remove a number of damage counters from Kabuto equal to the damage done to the Defending Pokémon.
+Kabutops,Rock,Slash,30,No additional effect.
+Kabutops,Rock,Absorb,40,Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon.
+Aerodactyl,Rock,Wing Attack,30,No additional effect.
+Aerodactyl,Rock,Supersonic,0,Flip a coin. If heads, the Defending Pokémon is now Confused.
+Snorlax,Normal,Body Slam,30,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Snorlax,Normal,Thick Fat,0,Snorlax takes 30 less damage from attacks.
+Articuno,Ice,Freeze Dry,30,Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+Articuno,Ice,Blizzard,50,Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon.
+Zapdos,Electric,Thunder,60,Flip a coin. If tails, Zapdos does 30 damage to itself.
+Zapdos,Electric,Drill Peck,20,No additional effect.
+Moltres,Fire,Wildfire,0,You may discard any number of Fire Energy cards attached to Moltres. For each Energy card discarded, discard the top card of your opponent's deck.
+Moltres,Fire,Dive Bomb,80,Flip a coin. If tails, this attack does nothing.
+Dratini,Dragon,Pound,10,No additional effect.
+Dratini,Dragon,Wrap,10,Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+Dragonair,Dragon,Hyper Beam,20,If the Defending Pokémon has any Energy cards attached to it, choose 1 and discard it.
+Dragonair,Dragon,Wrap,20,Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+Dragonite,Dragon,Slam,40,Flip 2 coins. This attack does 40 damage times the number of heads.
+Dragonite,Dragon,Dragon Tail,40,Flip 2 coins. This attack does 40 damage times the number of heads.
+Mewtwo,Psychic,Psychic,10,Does 10 damage plus 10 more damage for each Energy attached to the Defending Pokémon.
+Mewtwo,Psychic,Barrier,0,Discard 1 Psychic Energy attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo.
+Mew,Psychic,Psywave,10,Does 10 damage times the amount of Energy attached to the Defending Pokémon.
+Mew,Psychic,Devolution Beam,0,Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its owner's hand.
